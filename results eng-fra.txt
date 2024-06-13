@@ -1,0 +1,144 @@
+F:\anaconda\envs\pytorch\python.exe F:\AI-ML\pytorch\NMT\train.py
+Using existing vocab files
+Epoch 1 : -----------
+100%|██████████| 4245/4245 [05:23<00:00, 13.11it/s]
+loss: 1.6081
+
+> : i believe i am in the right
+< : je crois que j ai raison
+= : je crois que j ai raison
+
+
+> : i ve got to get home
+< : il me faut aller a la maison
+= : il me faut etre chez la maison
+
+
+> : look at me when i m talking to you !
+< : regarde moi lorsque je te parle !
+= : regardez moi quand je vous parle !
+
+
+> : we re retiring
+< : nous partons a la pension
+= : nous sommes <PAD> des tentation
+
+
+> : who do you think would do such a thing ?
+< : qui pensez vous ferait une telle chose ?
+= : qui penses vous que ce chose chose ?
+
+Epoch 2 : -----------
+100%|██████████| 4245/4245 [05:24<00:00, 13.09it/s]
+loss: 0.9316
+
+> : i can t see
+< : je suis aveugle
+= : je ne ne
+
+
+> : that cost a lot of money
+< : ca coute beaucoup d argent
+= : ca a beaucoup d argent
+
+
+> : what is my room number ?
+< : quel est le numero de ma chambre ?
+= : quel est mon numero de chambre chambre ?
+
+
+> : are you religious ?
+< : as tu de la religion ?
+= : etes tu ? la fievre ?
+
+
+> : i ll buy a new one
+< : j en acheterai un nouveau
+= : je acheterai acheterai une nouveau
+
+  0%|          | 0/4245 [00:00<?, ?it/s]Epoch 3 : -----------
+100%|██████████| 4245/4245 [05:24<00:00, 13.07it/s]
+loss: 0.7177
+
+> : the day is almost over
+< : la journee tire a sa fin
+= : la journee est <PAD> la fin
+
+
+> : buying a new tv won t make you happy
+< : faire l acquisition d une nouvelle tele ne vous rendra pas heureux
+= : acheter une acquisition d une nouvelle tele ne vous rendra pas heureux
+
+
+> : you had better go to the dentist
+< : tu ferais mieux d aller chez le dentiste
+= : vous ferais mieux de aller chez le dentiste
+
+
+> : i was scared stiff
+< : j avais une peur bleue
+= : j avais peur peur bleue
+
+
+> : there s no urgency
+< : il n y a pas d urgence
+= : il n y a pas de urgence
+
+  0%|          | 0/4245 [00:00<?, ?it/s]Epoch 4 : -----------
+100%|██████████| 4245/4245 [05:23<00:00, 13.11it/s]
+loss: 0.6066
+
+> : does this make me look fat ?
+< : ceci me fait il paraitre grosse ?
+= : ceci me fait il paraitre chaud chaud
+
+
+> : i don t live with tom
+< : je ne vis pas avec tom
+= : je ne vis pas avec tom
+
+
+> : tell me what to do and i will do it
+< : dis moi quoi faire et je le ferai
+= : dis moi ce et et je vais ferai
+
+
+> : i ve been saving up to buy a new saxophone
+< : j economise pour m acheter un nouveau saxophone
+= : j ai pour acheter acheter un nouveau saxophone
+
+
+> : they went to america last month
+< : ils sont alles en amerique le mois dernier
+= : ils vont partis au amerique l mois dernier
+
+  0%|          | 0/4245 [00:00<?, ?it/s]Epoch 5 : -----------
+100%|██████████| 4245/4245 [05:23<00:00, 13.13it/s]
+loss: 0.5416
+
+> : i ve been very busy lately
+< : j ai ete tres occupe ces derniers temps
+= : je ai ete tres occupe ces derniers temps
+
+
+> : do you have much snow here ?
+< : avez vous beaucoup de neige ici ?
+= : as vous beaucoup de neige ici ?
+
+
+> : you don t have to do that if you don t really want to
+< : vous n etes pas obligees de le faire si vous ne le voulez vraiment pas
+= : vous n etes pas obligee de faire faire si vous ne le voulez vraiment <PAD>
+
+
+> : tom has been living in boston since he graduated from college
+< : tom vit a boston depuis qu il est diplome de l universite
+= : tom vit a boston depuis qu il est diplome de l universite
+
+
+> : is this seat vacant ?
+< : cette chaise est elle libre ?
+= : cette chaise est elle libre ?
+
+
+Process finished with exit code 0
