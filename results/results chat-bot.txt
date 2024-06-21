@@ -1,0 +1,1454 @@
+F:\anaconda\envs\pytorch\python.exe F:\AI-ML\pytorch\NMT\train_with_attn.py
+Using existing vocab files
+Epoch 1 : -----------
+100%|██████████| 116/116 [00:07<00:00, 14.69it/s]
+loss: 2.9396
+saving weights
+
+> : maybe i know but how could you know ?
+< : because i was watching you
+= : i i m a <PAD>
+
+
+> : are you going to travel alone ?
+< : no my sister and i will travel together
+= : i i nose <PAD> i m be <PAD>
+
+
+> : all they think about is themselves
+< : maybe we should get rid of him
+= : i you ll have a <PAD> course
+
+
+> : i ll just use the atm
+< : what s that ?
+= : i s not ?
+
+
+> : do they allow pets ?
+< : no pets no smoking
+= : i i <PAD> i
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 2 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.46it/s]
+loss: 2.3284
+saving weights
+
+> : i really love how rain clears the air
+< : me too it always smells so fresh after it rains
+= : i too <PAD> s <PAD> so much <PAD> it s
+
+
+> : up to for each gun no questions asked
+< : why are they doing this ?
+= : that do you ? ? ?
+
+
+> : this is a popular restaurant isn t it ?
+< : yes but it isn t a fast food restaurant is it ?
+= : i i i s t <PAD> good <PAD> <PAD> <PAD> a <PAD>
+
+
+> : that s the reason it was such a great game
+< : the next game i will definitely be there
+= : i same time <PAD> ll be <PAD> happy
+
+
+> : why is that ?
+< : there was a bomb threat at the airport
+= : i are a good <PAD> <PAD> the phone
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 3 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.39it/s]
+loss: 2.0222
+saving weights
+
+> : what was your problem ?
+< : my stomach was bothering me
+= : i stomach was a <PAD>
+
+
+> : and when elected they go their own way
+< : they forget who put them in power
+= : i re about with their in jail
+
+
+> : did you have a date friday night ?
+< : yes in fact i did
+= : i i the it m
+
+
+> : my grandma s apartment smells funny
+< : so does mine
+= : that do it
+
+
+> : please don t be nosey
+< : i m not being nosey it s just a question
+= : i m going going nosey <PAD> s too a good
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 4 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.85it/s]
+loss: 1.7595
+saving weights
+
+> : i ate free cheese and meat every day
+< : that sounds like a great job
+= : i s like a good game
+
+
+> : did he crash ?
+< : no he just landed the plane and walked to a restaurant
+= : he he s got the car and the <PAD> the restaurant
+
+
+> : good ! i just thought i d let you know
+< : thanks for telling me
+= : i <PAD> you me
+
+
+> : stress causes different problems with different people
+< : so what did he tell you to do ?
+= : what what s you do you ? do ?
+
+
+> : i m having a party this friday
+< : i had no idea
+= : i m to idea
+
+Epoch 5 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.30it/s]
+loss: 1.4533
+saving weights
+
+> : but girls like guys who are funny
+< : maybe we should learn some good jokes
+= : well we should get some people jokes
+
+
+> : that s a switch
+< : i m serious have you ?
+= : i ll going <PAD> you <PAD>
+
+
+> : i like it so far my classes are pretty good right now
+< : i wish you luck
+= : i thought i re
+
+
+> : it seems fine to me
+< : i toss and turn all night
+= : i ll <PAD> the <PAD> night
+
+
+> : she said she didn t love me anymore
+< : wow ! that s terrible
+= : that ! that s terrible
+
+Epoch 6 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.92it/s]
+loss: 1.1669
+saving weights
+
+> : why did you get a poodle ?
+< : it s my mom s dog
+= : i was the mom <PAD> in
+
+
+> : how about a pizza ?
+< : you had pizza for lunch
+= : i can a for the
+
+
+> : no ten of my coworkers got laid off too
+< : what are you going to do ?
+= : what are you going to do ?
+
+
+> : do you believe everything you hear ?
+< : i don t believe anything i don t see with my own eyes
+= : i don t know anything <PAD> m t like anything my own eyes
+
+
+> : we ll be here forever
+< : get out of this lane
+= : i out of the lane
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 7 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.98it/s]
+loss: 0.9432
+saving weights
+
+> : what are they ?
+< : they are bites
+= : these are bites
+
+
+> : but it was full of pencils ! how could he say it was empty ?
+< : artists see things differently
+= : artists see things differently
+
+
+> : thank you
+< : you shouldn t lie in the sun for too long
+= : i re t lie to the sun sun mccain ripe
+
+
+> : i hate medication it makes me feel different
+< : so how do you think positive ?
+= : so do do you have positive ?
+
+
+> : they forget where they came from
+< : maybe you should run for office
+= : maybe they should run office office
+
+Epoch 8 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.85it/s]
+loss: 0.7226
+saving weights
+
+> : no we won t have money for gas or food
+< : we ll be eating peanut butter sandwiches ?
+= : we ll be eating peanut butter sandwiches ?
+
+
+> : i took something earlier
+< : get better
+= : that better
+
+
+> : what was the score at the end of the game ?
+< : our team won
+= : the team was
+
+
+> : they should stay in the woods where they belong
+< : there s no food in the woods
+= : that s no food in the woods
+
+
+> : i want it to cool down some
+< : i know what you mean i can t wait until it s winter
+= : i want you you mean i can t wait until it s winter
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 9 : -----------
+100%|██████████| 116/116 [00:06<00:00, 18.42it/s]
+loss: 0.5367
+saving weights
+
+> : the government says we have nothing to worry about
+< : then why are some schools telling the kids to stay home ?
+= : then why are they schools telling the kids to stay home ?
+
+
+> : i don t like my job
+< : what do you do ?
+= : what s you do ?
+
+
+> : me too
+< : he will be a great president
+= : we ll be a great president
+
+
+> : i attended school today did you ?
+< : i wasn t able to attend school because i was feeling ill
+= : i was t able to attend school was i was feeling ill
+
+
+> : i parked it right here
+< : are you sure ?
+= : you you going ?
+
+Epoch 10 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.63it/s]
+loss: 0.3885
+saving weights
+
+> : don t they clean the bus every night ?
+< : i think they do
+= : i think they do
+
+
+> : yeah maybe next time
+< : i ll hold you to that
+= : i ll hold you to that
+
+
+> : well you can t blame a man for asking
+< : he should act his age
+= : he sank act his age
+
+
+> : it s a lot better than paying someone
+< : if my hard drive crashes i ll just call you
+= : if i hard drive crashes i ll just call you
+
+
+> : i will keep knocking on doors
+< : all you will get is sore knuckles
+= : all you will do is sore knuckles
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 11 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.12it/s]
+loss: 0.2812
+saving weights
+
+> : those shopping carts are dangerous
+< : especially the metal ones
+= : especially the metal ones
+
+
+> : first i have to find the button
+< : where did you lose it ?
+= : where did you lose it ?
+
+
+> : maybe i m not sure
+< : what did you have for breakfast ?
+= : well did you have a breakfast ?
+
+
+> : no one knows what happens after we die
+< : if we are good we will be happy in heaven with god
+= : if we are good we will be happy in heaven with god
+
+
+> : they need new workers
+< : and people showed up
+= : and people showed up
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 12 : -----------
+100%|██████████| 116/116 [00:06<00:00, 19.32it/s]
+loss: 0.2038
+saving weights
+
+> : how about a pizza ?
+< : you had pizza for lunch
+= : a had pizza for lunch
+
+
+> : he will end the war
+< : the next four years will be good years
+= : the next four years will be good years
+
+
+> : your day was just like mine
+< : of course it was we work together !
+= : of course it was we work together !
+
+
+> : i ll bet this is the first time you ve ever flown during christmas
+< : you re right
+= : you re right
+
+
+> : i don t have any idea
+< : you know what you did
+= : you know what you did
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 13 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.34it/s]
+loss: 0.1493
+saving weights
+
+> : did the cat bite you ?
+< : no the bedbugs in that mattress bit me
+= : no the bedbugs in that mattress bit me
+
+
+> : that s why we need to save money
+< : how much do we need to save ?
+= : how much do we need to save ?
+
+
+> : she asked me how she could return the favor so i asked her out
+< : sometimes a slow line can be a good thing
+= : sometimes a slow line can be a good thing
+
+
+> : did you see titanic ?
+< : yes it is a great movie
+= : yes it is a great movie
+
+
+> : who thinks that ?
+< : i don t know
+= : i don t know
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 14 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.89it/s]
+loss: 0.1079
+saving weights
+
+> : never better thanks
+< : so how have you been lately ?
+= : so how have you been lately ?
+
+
+> : you re wearing out your right hand stop using it so much
+< : but i do all my writing with my right hand
+= : but i do all my writing with my right hand
+
+
+> : some actress was in court for driving without a license
+< : what was the second story ?
+= : what was the second story ?
+
+
+> : what are you going to do ?
+< : first i have to find the button
+= : i i have to find the button
+
+
+> : i m in love with that girl
+< : have you told her ?
+= : have you told her ?
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 15 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.61it/s]
+loss: 0.0859
+saving weights
+
+> : i want to get a tan i don t want to look so pale
+< : what s wrong with looking pale ?
+= : what s wrong with looking pale ?
+
+
+> : if the company goes out of business i ll have nothing
+< : oh you ll have something you ll have a lesson you ll never forget !
+= : you you ll have something you ll have a lesson you ll never forget !
+
+
+> : yes he s telling jokes about his eight years as president
+< : yes those eight years were a lot of fun for everyone
+= : yes those eight years were a lot of fun for everyone
+
+
+> : so it s not worth much ?
+< : only about
+= : only about
+
+
+> : how long was the flight ?
+< : it only took about two hours
+= : it only took about two hours
+
+Epoch 16 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.46it/s]
+loss: 0.0693
+saving weights
+
+> : he will be a great president
+< : everyone likes him
+= : everyone likes him
+
+
+> : oh yeah he s changing it to a basketball court
+< : who s paying for that ?
+= : who s paying for that ?
+
+
+> : yes we need a relaxed president who thinks clearly
+< : do any other world leaders have a basketball court ?
+= : do any other world leaders have a basketball court ?
+
+
+> : well there is one good table
+< : great which one ?
+= : great which one ?
+
+
+> : too bad i was busy i really wanted to go
+< : yeah you should have it was really exciting
+= : yeah you should have it was really exciting
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 17 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.46it/s]
+loss: 0.0595
+saving weights
+
+> : give me a hug
+< : i m not in the mood
+= : i m not in the mood
+
+
+> : yes i ve passed all my tests
+< : do you ever pray for money ?
+= : do you ever pray for money ?
+
+
+> : i agree work is just as hard as school
+< : sometimes i wish i was back in school
+= : sometimes i wish i was back in school
+
+
+> : what are you talking about ?
+< : you know what i m talking about
+= : the know what i m talking about
+
+
+> : we ll be here forever
+< : get out of this lane
+= : get out of this lane
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 18 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.14it/s]
+loss: 0.0523
+saving weights
+
+> : that s not good
+< : no it isn t he almost died when he was little
+= : no it isn t he almost died died he loves little
+
+
+> : what college do you go to ?
+< : i go to pasadena city college
+= : i go to pasadena city college
+
+
+> : they trust in god
+< : they hope they will go to heaven
+= : they hope they will go to heaven
+
+
+> : why would i do that ?
+< : because men like to cheat
+= : because men like to cheat
+
+
+> : last week they told us about a bear in a back yard
+< : last month they told us about a mouse in a restaurant
+= : last month they told us about a mouse in a restaurant
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 19 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.51it/s]
+loss: 0.0479
+saving weights
+
+> : well hold on a little longer
+< : i think i m going to explode
+= : i think i m going to explode
+
+
+> : i can t wait until i graduate
+< : me too
+= : me too
+
+
+> : i just peeled it and i m looking at it right now
+< : let me see yes you re right your orange is pink
+= : let me see yes you re right your orange is pink
+
+
+> : i don t like it reheated
+< : well you ll have hot fresh food tomorrow night
+= : well you ll have hot fresh food tomorrow night
+
+
+> : how rude
+< : but i got lucky a few minutes later
+= : but i m lucky a few minutes later
+
+Epoch 20 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.22it/s]
+loss: 0.0416
+saving weights
+
+> : mostly talk radio
+< : what s that ?
+= : what s that ?
+
+
+> : it was until one day my manager caught me
+< : no more free cheese for you huh ?
+= : no more free cheese for you huh ?
+
+
+> : who ever heard of such a thing ?
+< : oh look here s the little sticker that was on it it s called a pink navel
+= : oh look here s the little sticker that was on it it s called a pink navel
+
+
+> : but bush visited some of them in the hospital once
+< : that s nice that he found the time to make a visit
+= : that s nice that he found the time to make a visit
+
+
+> : how do you know ?
+< : because they always do
+= : because they always do
+
+Epoch 21 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.31it/s]
+loss: 0.0420
+saving weights
+
+> : yes he s telling jokes about his eight years as president
+< : yes those eight years were a lot of fun for everyone
+= : yes those eight years were a lot of fun for everyone
+
+
+> : paper cuts can hurt a lot
+< : where are the band aids ?
+= : where are the band aids ?
+
+
+> : i like it so far my classes are pretty good right now
+< : i wish you luck
+= : i wish you luck
+
+
+> : what are you talking about ?
+< : sunday is mother s day
+= : i is mother s day
+
+
+> : no way ! i don t want to fall to my death
+< : don t worry only one person has ever fallen off a mule
+= : don t worry only one person has ever fallen off a mule
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 22 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.67it/s]
+loss: 0.0372
+saving weights
+
+> : it wasn t that loud
+< : i will blow my nose sometime for you and you ll see
+= : i will blow my nose sometime for you and you ll see
+
+
+> : what s going on ?
+< : nothing really how about you ?
+= : nothing really you about you ?
+
+
+> : a flag should be pretty
+< : what should our flag look like ?
+= : what should our flag look like ?
+
+
+> : it really does i can t wait
+< : what time does the party start ?
+= : what time does the party start ?
+
+
+> : all we ve seen so far is a couple of lizards
+< : we re hiking to lose weight not to see goats and bears
+= : we re hiking to lose weight not to see goats and bears
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 23 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.65it/s]
+loss: 0.0356
+saving weights
+
+> : first of all he was half an hour late
+< : that s not a good start
+= : that s not a good start
+
+
+> : why do you do that ?
+< : we want to make sure all the students are out of the building
+= : we want to make sure all the students are out of the building
+
+
+> : my grandma s apartment smells funny
+< : so does mine
+= : so does mine
+
+
+> : i never miss the food and drink section
+< : i gave a subscription to my parents
+= : i gave a subscription to my parents
+
+
+> : i think i ve put on some weight
+< : you think ?
+= : you think ?
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 24 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.71it/s]
+loss: 0.0341
+saving weights
+
+> : do you think the bananas fell from the sky ?
+< : what do you mean ?
+= : what do you mean ?
+
+
+> : this is a nice neighborhood
+< : the streets are clean and quiet
+= : the streets are clean and quiet
+
+
+> : perfect we don t have to listen to barking dogs
+< : and there are only six units in the whole building
+= : and there are only six units in the whole building
+
+
+> : really ?
+< : yes you really deserved this
+= : yes i really deserved this
+
+
+> : well anyway do you plan on going to school tomorrow ?
+< : no i think i m going to go to the movies
+= : no i think i m going to go to the movies
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 25 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.51it/s]
+loss: 0.0338
+saving weights
+
+> : it leaves at
+< : when do you have to be at the airport ?
+= : when do you have to be at the airport ?
+
+
+> : they might think i m stupid
+< : they re not going to think that ! they ll be glad to help you
+= : they re not going to think that ! they ll be glad to help you
+
+
+> : doing what ?
+< : i m going to dinner with my family
+= : working m going to dinner with my family
+
+
+> : when exactly does the party start ?
+< : the invitation says it starts at p m
+= : the invitation says it starts at p m
+
+
+> : because i want to make a lot of money
+< : there are a lot of poor people in new york
+= : there are a lot of poor people in new york
+
+Epoch 26 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.32it/s]
+loss: 0.0337
+saving weights
+
+> : i ve tried everything but nothing works
+< : have you tried earplugs ?
+= : have you tried earplugs ?
+
+
+> : who carries a sharp knife in their pocket ?
+< : criminals of course
+= : criminals of course
+
+
+> : it comes from cows
+< : so we get cheese from cows and we get milk too ?
+= : so we get cheese from cows and we get milk too ?
+
+
+> : i ve been good i m in school right now
+< : what school do you go to ?
+= : what school do you go to ?
+
+
+> : he will solve our problems
+< : he will end the war
+= : he will end the war
+
+Epoch 27 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.41it/s]
+loss: 0.0326
+saving weights
+
+> : maybe she s different
+< : they re all the same
+= : they re all the same
+
+
+> : yes i do
+< : what kind of car do you have ?
+= : what college of car do you have ?
+
+
+> : but it was full of pencils ! how could he say it was empty ?
+< : artists see things differently
+= : artists see things differently
+
+
+> : i know i went to china yesterday
+< : what did you do ?
+= : what did you do ?
+
+
+> : baseball is fun
+< : i like to hit the ball
+= : i ve winter hit hit mountains
+
+Epoch 28 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.85it/s]
+loss: 0.0327
+saving weights
+
+> : i want to get a puppy for my son
+< : that will make him so happy
+= : that will make him so happy
+
+
+> : sometimes the pain goes away and sometimes it doesn t
+< : have you seen a doctor ?
+= : have you seen a doctor ?
+
+
+> : a lot like the party i m having on friday
+< : well that s cool
+= : well that s cool
+
+
+> : me too
+< : where does cheese come from ?
+= : where does cheese come from ?
+
+
+> : just put them in the fridge
+< : also i bought a can of cheap coffee and a bag of good coffee
+= : also i bought a can of cheap coffee and a bag of good coffee
+
+Epoch 29 : -----------
+100%|██████████| 116/116 [00:05<00:00, 22.00it/s]
+loss: 0.0333
+saving weights
+
+> : how about a movie ?
+< : a movie sounds good
+= : a movie sounds good
+
+
+> : so we ve got to sell before property values go down ?
+< : yes i still can t believe our city council allowed this building
+= : yes i still can t believe our city council allowed this building
+
+
+> : they are so weak
+< : a little cigarette controls them
+= : a little cigarette controls them
+
+
+> : why did you do that ?
+< : i mixed them together
+= : i mixed them together
+
+
+> : yes he stole a plane in canada and flew into the u s
+< : did they catch him ?
+= : did they catch him ?
+
+Epoch 30 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.22it/s]
+loss: 0.0327
+saving weights
+
+> : they don t believe us ?
+< : no they can only give a ticket if they see it happen
+= : no they can only give a ticket if they see it happen
+
+
+> : is that right ?
+< : yeah are you going to come ?
+= : i are you going to come ?
+
+
+> : well a d is better than an f
+< : a tutor helped me get the d !
+= : a tutor helped me get the d !
+
+
+> : oh yes i took him there yesterday he showed me one that he really liked
+< : i bet you had to drag him away
+= : i bet you had to drag him away
+
+
+> : i like it so far my classes are pretty good right now
+< : i wish you luck
+= : i wish you luck
+
+Epoch 31 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.28it/s]
+loss: 0.0312
+saving weights
+
+> : it didn t smell bad
+< : maybe the banana was bad
+= : maybe the banana was bad
+
+
+> : but he didn t have a chance nobody voted for him !
+< : sooner or later voters will wake up
+= : sooner or later voters will wake up
+
+
+> : i thought you knew
+< : i honestly didn t know
+= : i honestly didn t know
+
+
+> : did you double check your nose and teeth ?
+< : they are clean too
+= : they are clean too
+
+
+> : no i couldn t make it
+< : you missed a really good game
+= : you missed a really good game
+
+Epoch 32 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.34it/s]
+loss: 0.0329
+saving weights
+
+> : i love cheese
+< : me too
+= : me too
+
+
+> : how are you going to vote ?
+< : same as ever by mail all it costs me is a cent stamp
+= : same as ever by mail all it costs me is a cent stamp
+
+
+> : i think that it s going to rain
+< : i hope that it does rain
+= : i hope that it does rain
+
+
+> : it was really nice talking to you also
+< : i think we should really do something sometime
+= : i think we should really do something sometime
+
+
+> : first of all he was half an hour late
+< : that s not a good start
+= : that s not a good start
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 33 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.96it/s]
+loss: 0.0339
+saving weights
+
+> : they will drop the new steak on the floor step on it and then spit on it
+< : you re crazy
+= : you re crazy
+
+
+> : it may have been random but have you ?
+< : i haven t lately
+= : i haven t lately
+
+
+> : i couldn t go to school today i was sick
+< : that s horrible i d be happy to give you the assignments from english class
+= : that s horrible i d be happy to give you the assignments from english class
+
+
+> : why is that ?
+< : because i love the snow
+= : i i love the snow
+
+
+> : i don t know sometimes the law doesn t make sense
+< : but his latest fire killed someone
+= : but his latest fire killed someone
+
+Epoch 34 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.79it/s]
+loss: 0.0353
+saving weights
+
+> : that will make him so happy
+< : i ll get him one of those little dogs
+= : i ll get him one of those little dogs
+
+
+> : put your seatbelt on
+< : why ?
+= : why ?
+
+
+> : which one do you want ?
+< : that one the one that s all black
+= : that one the one that s all black
+
+
+> : what do you mean ?
+< : our monthly payments will be too high
+= : i monthly payments will be too high
+
+
+> : did you hear about the pilot ?
+< : the one that stole a small plane ?
+= : the one that stole a small plane ?
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 35 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.97it/s]
+loss: 0.0351
+saving weights
+
+> : what s the matter ?
+< : maybe i left the burner on
+= : i i left the burner <PAD>
+
+
+> : and then will she look normal again ?
+< : i guess so
+= : i guess so
+
+
+> : do you have a cold ?
+< : yes i do
+= : yes i do
+
+
+> : i like to listen to rock and r b
+< : why do you like that type of music ?
+= : why do you like that type of music ?
+
+
+> : some people have good noses
+< : i wish i had a good nose mine is way too big
+= : i wish i had a good nose mine is way too big
+
+Epoch 36 : -----------
+100%|██████████| 116/116 [00:06<00:00, 18.94it/s]
+loss: 0.0351
+saving weights
+
+> : i have no idea how much it will cost
+< : i think it depends on the season and on your cabin
+= : i think it depends on the season is on your cabin
+
+
+> : english
+< : what are you going to do with an english major ?
+= : what are you going to do with an english major major
+
+
+> : i m not being nosey i m just asking
+< : i really don t think it s any of your business
+= : i really don t think it s any of your business
+
+
+> : i have it on dvd at my house if you want to come over and watch it
+< : sure let s go
+= : sure let s go
+
+
+> : me too
+< : no more homework
+= : where more homework
+
+Epoch 37 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.48it/s]
+loss: 0.0354
+saving weights
+
+> : natural food has more vitamins
+< : and it s just as easy to prepare
+= : and it s just as easy to prepare
+
+
+> : let me help you
+< : what does mi mean ?
+= : what does mi mean ?
+
+
+> : how did we end up in that terrible hotel ?
+< : the travel agent gave us a percent discount !
+= : the travel agent gave us a percent discount !
+
+
+> : i don t have a girlfriend either
+< : why not ?
+= : why not ?
+
+
+> : it has beautiful houses
+< : it has wonderful restaurants
+= : it has wonderful restaurants
+
+Epoch 38 : -----------
+100%|██████████| 116/116 [00:06<00:00, 18.51it/s]
+loss: 0.0405
+saving weights
+
+> : the cat is meowing he s hungry
+< : okay i ll feed him right now
+= : okay i ll feed him right now
+
+
+> : same here
+< : i bought the movie would you like to come to my house and watch it ?
+= : i bought the movie would you like to come to my house and watch it ?
+
+
+> : i saw it eight times
+< : i have the dvd
+= : i have the dvd
+
+
+> : a tree fell onto my dad s car
+< : was there much damage ?
+= : was there much damage ?
+
+
+> : i attended school today did you ?
+< : i wasn t able to attend school because i was feeling ill
+= : i wasn t able to attend school because i was feeling ill
+
+Epoch 39 : -----------
+100%|██████████| 116/116 [00:06<00:00, 18.07it/s]
+loss: 0.0395
+saving weights
+
+> : what kind of car do you have ?
+< : i have a honda
+= : i have a honda
+
+
+> : seriously i am so excited
+< : well congratulations
+= : well congratulations
+
+
+> : mostly talk radio
+< : what s that ?
+= : what s that ?
+
+
+> : you met a girl at the supermarket ?
+< : she was standing behind me in a really slow line at the checkout counter
+= : she was standing at at in a really slow line at the checkout counter
+
+
+> : when did you lose it ?
+< : i think i lost it today i used it yesterday
+= : i think i lost it today i used it yesterday
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 40 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.74it/s]
+loss: 0.0415
+saving weights
+
+> : oh yeah the girl died instantly and the boy is still in the hospital
+< : the husband said he tried to help the boy
+= : the husband said he tried to help the boy
+
+
+> : i ll give it back to you in a couple of minutes
+< : maybe we should put it in a plastic bag to keep it clean
+= : maybe we should put it in a plastic bag to keep it clean
+
+
+> : the dome doesn t close
+< : why doesn t it close ?
+= : why doesn t it close ?
+
+
+> : are you having problems with it ?
+< : i don t understand some things
+= : i don t understand some things
+
+
+> : i don t think so
+< : have you looked in the mirror ?
+= : have you looked in the mirror mirror
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 41 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.95it/s]
+loss: 0.0413
+saving weights
+
+> : i feel sorry for anyone who loses their home
+< : so do i but not if they re rich
+= : so do i but not if they re rich
+
+
+> : how come ?
+< : i like how clear the sky gets after it rains
+= : i like how clear the sky gets after it rains
+
+
+> : i like to watch people
+< : that s your favorite thing to do ?
+= : that s your favorite thing to do ?
+
+
+> : i have to be there two hours early
+< : so we have to be at the airport at
+= : so we have to be at the airport at
+
+
+> : don t ever be in a hurry when you re driving
+< : why not ?
+= : why not ?
+
+Epoch 42 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.16it/s]
+loss: 0.0424
+saving weights
+
+> : here he comes now
+< : we ve been sitting here for almost minutes
+= : we ve been sitting here for almost minutes
+
+
+> : i ll use a damp cloth
+< : don t let water get into any of the cracks
+= : don t let water get into any of the cracks
+
+
+> : did they explain how it s possible ?
+< : no they said there are some things you can t explain
+= : no they said there are some things you can t explain
+
+
+> : what college do you go to ?
+< : i go to pasadena city college
+= : i go to pasadena city college
+
+
+> : is alice available ?
+< : you re talking to her
+= : you re talking to her
+
+Epoch 43 : -----------
+100%|██████████| 116/116 [00:06<00:00, 18.50it/s]
+loss: 0.0432
+saving weights
+
+> : did he crash ?
+< : no he just landed the plane and walked to a restaurant
+= : no he just landed the plane and walked to a restaurant
+
+
+> : what is your favorite kind of music ?
+< : i listen to various types of music
+= : i listen to various types of music
+
+
+> : we ll go to a french restaurant
+< : i ve never been to a french restaurant
+= : i ve never been to a french restaurant
+
+
+> : not a lot what about you ?
+< : i m having a party next saturday
+= : i m having a party next saturday
+
+
+> : you have no idea how happy i am for you
+< : for real ?
+= : for real ?
+
+Epoch 44 : -----------
+100%|██████████| 116/116 [00:06<00:00, 18.80it/s]
+loss: 0.0398
+saving weights
+
+> : that s not the attitude of a good driver
+< : but i am a good driver i ve never had a ticket in my life
+= : but i am a good driver i ve never had a ticket in my life
+
+
+> : of course they talk about us
+< : what do they say about us ?
+= : what do they say about us ?
+
+
+> : tell me what you ve been doing
+< : basically i ve been working too
+= : basically i ve been working too
+
+
+> : use a tissue next time
+< : i didn t have a tissue
+= : i didn t have a tissue
+
+
+> : with what ?
+< : i m taking a math course in school
+= : i m taking a math course in school
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 45 : -----------
+100%|██████████| 116/116 [00:07<00:00, 14.78it/s]
+loss: 0.0374
+saving weights
+
+> : what s going on ?
+< : nothing really you ?
+= : nothing really you ?
+
+
+> : no i didn t go i ve been sick
+< : that sucks did you want the assignments from english class ?
+= : that sucks did you want the assignments from english class ?
+
+
+> : does your girlfriend ever make you angry ?
+< : sometimes
+= : sometimes
+
+
+> : i don t know
+< : would you like to see a movie with me and my friend ?
+= : did you like to see a movie with me and my friend ?
+
+
+> : up to for each gun no questions asked
+< : why are they doing this ?
+= : why are they doing this ?
+
+Epoch 46 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.39it/s]
+loss: 0.0360
+saving weights
+
+> : really ?
+< : yes it s just a couple of screws
+= : his it s just a couple of screws
+
+
+> : sounds like it was a close game
+< : that s the reason it was such a great game
+= : that s the reason it was such a great game
+
+
+> : what do you think it is ?
+< : i don t know i think it s old age
+= : i don t know i think it s old age
+
+
+> : does it have a price tag ?
+< : yes it does it s only
+= : yes it does it s only
+
+
+> : no one at work likes him
+< : can t you report him to his supervisor ?
+= : can t you report him to his supervisor ?
+
+  0%|          | 0/116 [00:00<?, ?it/s]Epoch 47 : -----------
+100%|██████████| 116/116 [00:05<00:00, 21.64it/s]
+loss: 0.0324
+saving weights
+
+> : why did you do that ?
+< : i mixed them together
+= : pasta mixed them together
+
+
+> : yes cheese is nice
+< : what kind of dressing do you use ?
+= : what kind of dressing do you use ?
+
+
+> : it s better to be pale than to have skin cancer
+< : i know that
+= : i know that
+
+
+> : i did but i have to go again
+< : well hold on a little longer
+= : well hold on a little longer
+
+
+> : how much money do you have ?
+< :
+= :
+
+Epoch 48 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.76it/s]
+loss: 0.0311
+saving weights
+
+> : yes it s beautiful
+< : it s perfect for us and the kids
+= : it s perfect for us and the kids
+
+
+> : parking at school is impossible
+< : i ll say
+= : i ll say
+
+
+> : can t he just go online ?
+< : the rest of the time he s raising money for his reelection
+= : the rest of the time he s raising money for his reelection
+
+
+> : not a lot what about you ?
+< : i m throwing a party on friday
+= : i m having a party on friday
+
+
+> : so she likes poodles
+< : she says they re good watchdogs
+= : she says they re good watchdogs
+
+Epoch 49 : -----------
+100%|██████████| 116/116 [00:05<00:00, 20.26it/s]
+loss: 0.0289
+saving weights
+
+> : did you want to go ?
+< : when does it start ?
+= : when does it start ?
+
+
+> : i m going to the movies with a friend how about you ?
+< : i m not sure yet
+= : i m not sure yet
+
+
+> : all the radios will be on extra loud
+< : your neighbors will hate you
+= : your neighbors will hate you
+
+
+> : thanks i found these new shoes earlier at the store
+< : i think that those are some really nice shoes what kind are they ?
+= : i think that those are some really nice shoes what kind are they ?
+
+
+> : i can t get a single channel
+< : do you have a digital tv ?
+= : do you have a digital tv ?
+
+Epoch 50 : -----------
+100%|██████████| 116/116 [00:05<00:00, 19.89it/s]
+loss: 0.0281
+saving weights
+
+> : maybe we can go see a movie or something
+< : that sounds like fun let s do it
+= : that sounds like fun let s do it
+
+
+> : paper can be dangerous
+< : it hurts too
+= : it hurts too
+
+
+> : another family ?
+< : a family with only one baby
+= : a family with only one baby
+
+
+> : did you watch that golf tournament ?
+< : the one that tiger won ?
+= : the one that tiger won ?
+
+
+> : you know that woman with the big boobs
+< : i was not looking at her
+= : i was not looking at her
+
+
+Process finished with exit code 0

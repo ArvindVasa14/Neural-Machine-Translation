@@ -1,0 +1,89 @@
+F:\anaconda\envs\pytorch\python.exe F:\AI-ML\pytorch\NMT\train_with_attn.py
+Using existing vocab files
+Epoch 1 : -----------
+100%|██████████| 3454/3454 [07:24<00:00,  7.77it/s]
+loss: 1.2093
+saving weights
+
+> : why does tom need my help ?
+< : な ん て ト ム は 僕 の 助 け か 必 要 な の ？
+= : な ん て ト ム の 私 の 手 け か 必 要 な の ？
+
+
+> : i didn't want to go there anyway .
+< : と に か く 行 き た く な か っ た の 。
+= : そ こ そ く そ き た く な か っ た 。 。
+
+
+> : it is a nice day !
+< : い い 天 気 て す ね 。
+= : い い 天 気 た す 。 。
+
+
+> : i like hot springs off the beaten track .
+< : 私 は ひ な ひ た 温 泉 か 好 き た 。
+= : 私 は 海 と り と っ か か 好 き て 。
+
+
+> : you'd better not go there again .
+< : も う 二 度 と そ こ へ 行 か な い 方 か い い 。
+= : も う そ 度 と そ こ に 行 っ な い と か い い よ
+
+Epoch 2 : -----------
+100%|██████████| 3454/3454 [05:33<00:00, 10.35it/s]
+loss: 0.8751
+saving weights
+
+> : what's tom watching ?
+< : ト ム は 何 を 観 て い ま す か ？
+= : ト ム は 何 を 見 て る る す か ？
+
+
+> : i've got pins and needles in my leg .
+< : 足 か し ひ れ た 。
+= : 足 か 痛 て れ て ん
+
+
+> : she accused him of stealing her car .
+< : 彼 女 は 彼 か 車 を 盗 ん た と い う 理 由 て 訴 え た 。
+= : 彼 女 は 彼 女 車 を 盗 ま た と 約 う 名 由 を 彼 え た 。
+
+
+> : few people use an abacus these days .
+< : 今 と き ソ ロ ハ ン を 使 う 人 な ん て ほ と ん と い や し な い よ 。
+= : こ 日 て に ン ン ン ク ク う 人 は ん て す と い と な な す な い 。 。
+
+
+> : come and see me tomorrow .
+< : 明 日 遊 ひ に 来 て 下 さ い 。
+= : 明 日 来 ひ に 来 て 。 さ い 。
+
+Epoch 3 : -----------
+100%|██████████| 3454/3454 [05:52<00:00,  9.81it/s]
+loss: 0.7876
+saving weights
+
+> : is boston a big city ?
+< : ホ ス ト ン っ て 、 大 都 市 な の ？
+= : ホ ス ト ン は て 大 大 き 市 の の ？
+
+
+> : i bit .
+< : 噛 ん た 。
+= : 私 ん た 。
+
+
+> : he is close to sixty .
+< : 彼 は ６ ０ 歳 く ら い て す 。
+= : 彼 は ６ ０ 歳 を ら い に す 。
+
+
+> : i met an american who was interested in noh plays .
+< : 私 は 能 に 興 味 を 持 つ ア メ リ カ 人 に 会 い ま し た 。
+= : 私 は 大 力 ヒ 味 か 示 っ 出 メ リ カ 人 に 興 っ た し た 。
+
+
+> : i have a fever, so i won't go to school today .
+< : 熱 か あ る の て 、 今 日 は 学 校 を 休 み ま す 。
+= : 熱 か あ る ん て 、 今 日 は 学 校 に 休 ん て す 。
+
