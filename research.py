@@ -1,3 +1,3 @@
 import torch
 
-print(torch.tril(torch.ones(3, 3) == 1))
+print(torch.tril(torch.ones(2, 2) == 1))

@@ -1,54 +1,141 @@
 F:\anaconda\envs\pytorch\python.exe F:\AI-ML\pytorch\NMT\transformer\train_transformer.py
-Training and Validating model
+Generating vocab files
+Using existing vocab files
+  0%|          | 0/2763 [00:00<?, ?it/s]Training and Validating model
 ------------------------- Epoch 1 -------------------------
-100%|██████████| 562/562 [00:23<00:00, 23.48it/s]
-100%|██████████| 187/187 [00:03<00:00, 57.53it/s]
-  0%|          | 0/562 [00:00<?, ?it/s]Training loss : 0.5651
-Validation loss : 0.4127
-------------------------- Epoch 2 -------------------------
-100%|██████████| 562/562 [00:24<00:00, 22.64it/s]
-100%|██████████| 187/187 [00:02<00:00, 90.12it/s]
-  0%|          | 0/562 [00:00<?, ?it/s]Training loss : 0.4194
-Validation loss : 0.3816
-------------------------- Epoch 3 -------------------------
-100%|██████████| 562/562 [00:22<00:00, 24.88it/s]
-100%|██████████| 187/187 [00:02<00:00, 83.60it/s]
-Training loss : 0.3938
-Validation loss : 0.3530
+100%|██████████| 2763/2763 [01:58<00:00, 23.38it/s]
+100%|██████████| 691/691 [00:11<00:00, 58.10it/s]
+Training loss : 2.3889
+Validation loss : 2.0927
+Bleu score : BLEU = 0.01 0.3/0.0/0.0/0.0 (BP = 1.000 ratio = 114.327 hyp_len = 12576 ref_len = 110)
+> <SOS> tom often makes careless mistakes . <EOS>
+< <SOS> ト ム は よ く ケ ア レ ス ミ ス を す る 。 <EOS>
+= <SOS> ト ム は ト ム は ト ム は 、 ト ム は 、 ト
+
+> <SOS> please take a seat . <EOS>
+< <SOS> 座 り な よ 。 <EOS>
+= <SOS> ト ム は 、 ト ム は 、 ト ム は 、 ト ム は
+
+> <SOS> let's pass by the church . <EOS>
+< <SOS> 教 会 の そ は を 通 ろ う 。 <EOS>
+= <SOS> ト ム は 、 ト ム は 、 ト ム は 、 ト ム は
+
+> <SOS> when will the world come to an end ? <EOS>
+< <SOS> 世 界 は い つ 終 わ る の た ろ う か 。 <EOS>
+= <SOS> ト ム は 、 ト ム は 、 ト ム は 、 ト ム は
+
+> <SOS> good job ! <EOS>
+< <SOS> お 疲 れ 様 て し た 。 <EOS>
+= <SOS> ト ム は 私 は 、 は 、 ト ム は 、 ト ム は
+
+saving checkpoint..
+  0%|          | 0/2763 [00:00<?, ?it/s]------------------------- Epoch 2 -------------------------
+100%|██████████| 2763/2763 [02:02<00:00, 22.54it/s]
+100%|██████████| 691/691 [00:12<00:00, 57.36it/s]
+Training loss : 2.0501
+Validation loss : 1.9340
+Bleu score : BLEU = 0.01 0.4/0.0/0.0/0.0 (BP = 1.000 ratio = 114.189 hyp_len = 10848 ref_len = 95)
+> <SOS> she's accustomed to sitting . <EOS>
+< <SOS> 彼 女 は 座 る こ と に 慣 れ て い る 。 <EOS>
+= <SOS> ト ム は 、 ト ム は 、 ト ム は 、 ト ム は
+
+> <SOS> the boy playing the guitar is my brother . <EOS>
+< <SOS> キ タ ー を 弾 い て る 子 ね 、 私 の 弟 な の よ 。 <EOS>
+= <SOS> 彼 は 彼 女 は 、 ト ム は 、 ト ム は 、 ト
+
+> <SOS> i think tom is patient . <EOS>
+< <SOS> ト ム っ て 辛 抱 強 い ね 。 <EOS>
+= <SOS> ト ム は ト ム は ト ム は ト ム に ト ム か
+
+> <SOS> i'm afraid of heights . <EOS>
+< <SOS> 高 所 恐 怖 症 な ん た 。 <EOS>
+= <SOS> 彼 は 彼 女 は 彼 女 は 、 ト ム は 、 ト ム
+
+> <SOS> do your best in anything you do . <EOS>
+< <SOS> や る こ と に は 何 て も 全 力 を 尽 く せ 。 <EOS>
+= <SOS> ト ム は 、 ト ム は 、 ト ム は 、 ト ム か
+
+saving checkpoint..
+  0%|          | 0/2763 [00:00<?, ?it/s]------------------------- Epoch 3 -------------------------
+100%|██████████| 2763/2763 [02:01<00:00, 22.68it/s]
+100%|██████████| 691/691 [00:13<00:00, 51.09it/s]
+Training loss : 1.9245
+Validation loss : 1.8417
+Bleu score : BLEU = 0.01 0.3/0.0/0.0/0.0 (BP = 1.000 ratio = 114.286 hyp_len = 12000 ref_len = 105)
+> <SOS> tom called me to apologize . <EOS>
+< <SOS> ト ム か 謝 罪 の 電 話 を し て き た よ 。 <EOS>
+= <SOS> ト ム は ト ム は ト ム に ト ム か っ て い
+
+> <SOS> tell me the story . <EOS>
+< <SOS> そ の お 話 、 聞 か せ て よ 。 <EOS>
+= <SOS> 彼 は 彼 女 は 私 の を 見 た 。 <EOS>
+
+> <SOS> give a tissue to tom . <EOS>
+< <SOS> ト ム に テ ィ ッ シ ュ を あ け て 。 <EOS>
+= <SOS> ト ム は ト ム は ト ム に ト ム か っ た 。
+
+> <SOS> customers came one after another . <EOS>
+< <SOS> 後 か ら 後 か ら 客 か 来 た 。 <EOS>
+= <SOS> 彼 は 彼 女 は 彼 女 は 彼 女 の こ と こ と
+
+> <SOS> i worry about my future . <EOS>
+< <SOS> 自 分 の 将 来 か 気 に な る 。 <EOS>
+= <SOS> 彼 は 彼 女 は 私 に 行 き た 。 <EOS>
+
+saving checkpoint..
 ------------------------- Epoch 4 -------------------------
-100%|██████████| 562/562 [00:21<00:00, 25.69it/s]
-100%|██████████| 187/187 [00:02<00:00, 80.55it/s]
-  0%|          | 0/562 [00:00<?, ?it/s]Training loss : 0.3679
-Validation loss : 0.3149
-------------------------- Epoch 5 -------------------------
-100%|██████████| 562/562 [00:21<00:00, 25.96it/s]
-100%|██████████| 187/187 [00:02<00:00, 86.52it/s]
-Training loss : 0.3431
-Validation loss : 0.2762
-------------------------- Epoch 6 -------------------------
-100%|██████████| 562/562 [00:21<00:00, 25.97it/s]
-100%|██████████| 187/187 [00:02<00:00, 85.41it/s]
-  0%|          | 0/562 [00:00<?, ?it/s]Training loss : 0.3042
-Validation loss : 0.2222
-------------------------- Epoch 7 -------------------------
-100%|██████████| 562/562 [00:22<00:00, 25.45it/s]
-100%|██████████| 187/187 [00:02<00:00, 88.40it/s]
-Training loss : 0.2734
-Validation loss : 0.1961
-------------------------- Epoch 8 -------------------------
-100%|██████████| 562/562 [00:21<00:00, 25.99it/s]
-100%|██████████| 187/187 [00:02<00:00, 83.80it/s]
-Training loss : 0.2534
-Validation loss : 0.1814
-------------------------- Epoch 9 -------------------------
-100%|██████████| 562/562 [00:24<00:00, 23.27it/s]
-100%|██████████| 187/187 [00:02<00:00, 85.48it/s]
-Training loss : 0.2411
-Validation loss : 0.1630
-------------------------- Epoch 10 -------------------------
-100%|██████████| 562/562 [00:22<00:00, 25.13it/s]
-100%|██████████| 187/187 [00:02<00:00, 87.17it/s]
-Training loss : 0.2343
-Validation loss : 0.1601
+100%|██████████| 2763/2763 [02:02<00:00, 22.48it/s]
+100%|██████████| 691/691 [00:13<00:00, 53.13it/s]
+Training loss : 1.8477
+Validation loss : 1.7733
+Bleu score : BLEU = 0.01 0.3/0.0/0.0/0.0 (BP = 1.000 ratio = 114.286 hyp_len = 12000 ref_len = 105)
+> <SOS> we're studying . <EOS>
+< <SOS> 僕 た ち 勉 強 し て る ん た 。 <EOS>
+= <SOS> 彼 は 私 の こ と を 見 た 。 <EOS>
+
+> <SOS> can i leave a message ? <EOS>
+< <SOS> 伝 言 を お 願 い し た い の て す か 。 <EOS>
+= <SOS> こ の こ の こ の こ の ？ <EOS>
+
+> <SOS> how would you translate this sentence, tom ? <EOS>
+< <SOS> こ の 文 、 ト ム た っ た ら と う 訳 す ？ <EOS>
+= <SOS> ト ム は 何 か ら 、 ト ム か ？ <EOS>
+
+> <SOS> "what did you say ? ""i didn't say anything .""" <EOS>
+< <SOS> 「 何 て 言 い ま し た か ？ 」 「 何 も 言 っ て ま せ ん よ 」 <EOS>
+= <SOS> こ の こ の こ の ？ <EOS>
+
+> <SOS> you'd better consult the doctor . <EOS>
+< <SOS> 君 は 医 者 に み て も ら っ た ほ う か よ い 。 <EOS>
+= <SOS> 彼 は 彼 女 の 中 に 行 き た 。 <EOS>
+
+saving checkpoint..
+  0%|          | 0/2763 [00:00<?, ?it/s]------------------------- Epoch 5 -------------------------
+100%|██████████| 2763/2763 [01:59<00:00, 23.17it/s]
+100%|██████████| 691/691 [00:12<00:00, 56.24it/s]
+Training loss : 1.7962
+Validation loss : 1.7266
+Bleu score : BLEU = 0.01 0.4/0.0/0.0/0.0 (BP = 1.000 ratio = 114.189 hyp_len = 10848 ref_len = 95)
+> <SOS> what is in the box ? <EOS>
+< <SOS> 箱 の 中 身 は 何 ？ <EOS>
+= <SOS> こ の こ の 本 当 に は 、 こ の ？ <EOS>
+
+> <SOS> she spends most of her money on clothes . <EOS>
+< <SOS> 彼 女 は 服 装 に 大 部 分 の お 金 を 使 う 。 <EOS>
+= <SOS> 彼 女 は 彼 女 の 彼 女 は 彼 女 の 彼 女 は
+
+> <SOS> thank you for your cooperation . <EOS>
+< <SOS> こ 協 力 に 感 謝 い た し ま す 。 <EOS>
+= <SOS> 私 は 私 の 本 当 に 行 き た 。 <EOS>
+
+> <SOS> who looks after this dog ? <EOS>
+< <SOS> 誰 か こ の 犬 の 世 話 を し て る の ？ <EOS>
+= <SOS> こ の こ の こ の こ の ？ <EOS>
+
+> <SOS> i was late for work because i forgot to set my alarm . <EOS>
+< <SOS> 目 覚 ま し か け 忘 れ て て 、 仕 事 に 遅 刻 し ち ゃ っ た 。 <EOS>
+= <SOS> 私 は 私 の 本 当 に 行 っ て い る 。 <EOS>
+
+saving checkpoint..
 
 Process finished with exit code 0

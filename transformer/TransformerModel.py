@@ -7,7 +7,8 @@ from NMT.transformer.PositionalEncoding import PositionalEncoding
 
 class Transformer(nn.Module):
     def __init__(self,
-                 num_tokens,
+                 src_vocab_size,
+                 tgt_vocab_size,
                  dim_model,
                  num_heads,
                  num_encoder_layers,
@@ -20,7 +21,8 @@ class Transformer(nn.Module):
         self.dim_model= dim_model
 
         self.positional_encoder= PositionalEncoding(dim_model, dropout_p, max_len= 5000)
-        self.embedding= nn.Embedding(num_tokens, dim_model)
+        self.src_embedding= nn.Embedding(src_vocab_size, dim_model)
+        self.tgt_embedding= nn.Embedding(tgt_vocab_size, dim_model)
 
         self.transformer= nn.Transformer(
             d_model= dim_model,
@@ -30,14 +32,14 @@ class Transformer(nn.Module):
             dropout= dropout_p
         )
 
-        self.out= nn.Linear(dim_model, num_tokens)
+        self.out= nn.Linear(dim_model, tgt_vocab_size)
 
     def forward(self, src, tgt, tgt_mask= None, src_pad_mask= None, tgt_pad_mask= None):
         # src (batch_size, seq_len)
         # tgt (batch_size, seq_len)
 
-        src= self.embedding(src) * math.sqrt(self.dim_model)
-        tgt= self.embedding(tgt) * math.sqrt(self.dim_model)
+        src= self.src_embedding(src) * math.sqrt(self.dim_model)
+        tgt= self.tgt_embedding(tgt) * math.sqrt(self.dim_model)
         src= self.positional_encoder(src)
         tgt= self.positional_encoder(tgt)
 

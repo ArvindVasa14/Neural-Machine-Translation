@@ -3,7 +3,7 @@ from torch import nn
 from torch.utils.data import DataLoader, Subset
 import numpy as np
 
-from NMT.AttnDecoderRnn import AttnDecoderRnn
+from AttnDecoderRnn import AttnDecoderRnn
 from NMT.seq2seq.EncoderRNN import EncoderRNN
 from NMT.MyCollate import MyCollate
 from NMT.TranslationDataset import TranslationDataset
